@@ -1,4 +1,9 @@
+**/node_modules
+node_modules/
 /01-helloWorld
 /02-meu-primeiro-projeto
 /04-commonjs-modules
 /05-esmodules
+/08-npm-scripts
+/07-npm-packages-basic
+/09-npm-environment
