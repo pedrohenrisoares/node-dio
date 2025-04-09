@@ -7,3 +7,5 @@ node_modules/
 /08-npm-scripts
 /07-npm-packages-basic
 /09-npm-environment
+/11-typescript
+/12-debug
